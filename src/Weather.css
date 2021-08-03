@@ -32,6 +32,10 @@
   margin-right: 10px;
 }
 
+.float-left {
+  float: left;
+}
+
 .Weather .temperature {
   font-weight: bold;
   color: rgb(33, 33, 33);
