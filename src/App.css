@@ -10,3 +10,11 @@
 .Weather {
   color: navy;
 }
+.Weather .temperature {
+  color: navy;
+}
+
+.Weather .unit {
+  color: navy;
+  font-size: 20px;
+}
